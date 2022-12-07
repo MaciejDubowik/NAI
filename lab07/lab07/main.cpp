@@ -23,7 +23,10 @@ int main()
         cap.read(webcam);
         flip(webcam, webcam, 1);
         imshow("webcam", webcam);
-        waitKey(1);
+        
+        if (waitKey(1) == 27) {
+            break;
+        }
     }
     
 }
