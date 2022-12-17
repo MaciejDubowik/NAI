@@ -1,0 +1,3 @@
+/Users/maciejdubowik/Desktop/NAI/lab01/cmake-build-debug/CMakeFiles/lab01.dir
+/Users/maciejdubowik/Desktop/NAI/lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maciejdubowik/Desktop/NAI/lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
