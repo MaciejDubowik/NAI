@@ -20,7 +20,6 @@ void returnResult(map<string,fun> function, vector<string> arguments) {
 
 
 int main(int argc, char **argv) {
-
     operation operations;
 
     operations["sin"] = [](vector<double> v) {return sin(v[0]);};
